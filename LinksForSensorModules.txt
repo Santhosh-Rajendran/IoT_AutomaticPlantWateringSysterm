@@ -1,0 +1,3 @@
+
+https://roboindia.com/tutorials/dht11-nodemcu-arduino/
+https://www.electronicwings.com/nodemcu/soil-moisture-sensor-interfacing-with-nodemcu
